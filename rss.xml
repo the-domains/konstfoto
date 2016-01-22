@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Konstfoto]]></title>
         <description><![CDATA[Konstfoto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/konstfoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 21:44:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 21:44:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/konstfoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96ae37a3-9e50-4d71-9b68-08dcb0a0e5a0.JPG">]]></description>
+            <link>https://thegrid.ai/konstfoto/16146b2b-8984-4230-b075-f5d2034c5781/index.html</link>
+            <guid isPermaLink="false">16146b2b-8984-4230-b075-f5d2034c5781</guid>
+            <pubDate>Fri, 22 Jan 2016 21:44:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc3551ec-2dcf-45b9-84a8-c5c6391db9a5.JPG">]]></description>
-            <link>undefined8c806b45-5308-4a81-8deb-f69f2da54ffd/index.html</link>
+            <link>https://thegrid.ai/konstfoto/8c806b45-5308-4a81-8deb-f69f2da54ffd/index.html</link>
             <guid isPermaLink="false">8c806b45-5308-4a81-8deb-f69f2da54ffd</guid>
             <pubDate>Fri, 22 Jan 2016 21:43:57 GMT</pubDate>
         </item>
